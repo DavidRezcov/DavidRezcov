@@ -1,16 +1,17 @@
-### Hi there 👋
+### hey there
+<a href="https://vk.com/scadawincc">
+  <img align="left" alt="Rezcov VK" width="30px" src="https://pngicon.ru/file/uploads/vk.png" />
+</a>
+<a href="https://t.me/scadawincc">
+  <img align="left" alt="DavidRezcov telegram" width="30px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" />
+</a>
 
-<!--
-**DavidRezcov/DavidRezcov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+Hello, I'm David Rezkov, java developer from Russia. I am developing microservices using the Spring framework technology stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="right" alt="GIF" src="https://github.com/DavidRezcov/DavidRezcov/blob/master/train.gif?raw=true" width="500" height="320" />
+
+- 💼 [email](mailto:srvdev@mail.ru)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DavidRezcov&show_icons=true&theme=gotham" alt="DavidRezcov" />
