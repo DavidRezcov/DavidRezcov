@@ -10,7 +10,7 @@
 
 Hello, I'm David Rezkov, java developer from Russia. I am developing microservices using the Spring framework technology stack.
 
-  <img align="right" alt="GIF" src="https://github.com/DavidRezcov/DavidRezcov/blob/master/train.gif?raw=true" width="500" height="320" />
+  <img align="top" alt="GIF" src="https://github.com/DavidRezcov/DavidRezcov/blob/main/train.gif?raw=true" width="500" height="320" />
 
 - 💼 [email](mailto:srvdev@mail.ru)
 
