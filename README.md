@@ -8,8 +8,4 @@
 
 <br />
 
-Hello, I'm David Rezcov, java developer from Russia. I am developing microservices using the Spring framework technology stack.
-
-- 💼 [email](mailto:srvdev@mail.ru)
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DavidRezcov&show_icons=true&theme=gotham" alt="DavidRezcov" />
